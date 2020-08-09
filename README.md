@@ -1,4 +1,4 @@
-# firebase-signin
+# FirebaseAuth
 A sign in sign up page using firebase Authentication
 
 
