@@ -51,7 +51,7 @@ input[type="password"]
      	outline: 0;
      	border-radius: 10px;
      	border:0;
-     	background-color: #14a0da;
+     	background-color: yellow;
 }
 #form_container #error
 {
